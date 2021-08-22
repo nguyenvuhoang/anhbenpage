@@ -260,3 +260,19 @@ body.dark .tokyo_tm_news ul li .list_inner {
 body.dark .tokyo_tm_news ul li .image {
   background: #111;
 }
+
+.tokyo_tm_home .home_content .details h3{
+  background-image: linear-gradient(to bottom right, #26a5b0, #1861a5);
+	color: transparent;
+	-webkit-background-clip: text;
+}
+.tokyo_tm_about .description h3 {
+  background-image: linear-gradient(to bottom right, #26a5b0, #1861a5);
+	color: transparent;
+	-webkit-background-clip: text;
+}
+.tokyo_tm_title .title_flex .left h3{
+  background-image: linear-gradient(to bottom right, #26a5b0, #1861a5);
+	color: transparent;
+	-webkit-background-clip: text;
+}
